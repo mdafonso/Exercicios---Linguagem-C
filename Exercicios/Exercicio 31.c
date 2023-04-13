@@ -1,3 +1,4 @@
+//Crie um jogo de JoKenPo (Pedra-Papel-Tesoura)
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
